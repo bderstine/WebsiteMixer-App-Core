@@ -1,8 +1,8 @@
-# WebsiteMixer-App-Core-2.0
+# WebsiteMixer-App-Core
 
-$ git clone https://github.com/bderstine/WebsiteMixer-App-Core-2.0
+$ git clone https://github.com/bderstine/WebsiteMixer-App-Core
 
-$ cd WebsiteMixer-App-Core-2.0
+$ cd WebsiteMixer-App-Core
 
 $ pip install -r requirements.txt
 
