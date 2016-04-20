@@ -1,2 +1,14 @@
-# WebsiteMixer-App-Core
-The absolute bare minimum needed to run an instance of WebsiteMixer.
+# WebsiteMixer-App-Core-2.0
+
+$ git clone https://github.com/bderstine/WebsiteMixer-App-Core-2.0
+
+$ cd WebsiteMixer-App-Core-2.0
+
+$ pip install -r requirements.txt
+
+$ ./run.py
+
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+
+
