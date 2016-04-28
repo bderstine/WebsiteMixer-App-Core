@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "WebsiteMixer CMS Base",
-    "summary": "Provide the base cms framework for a website.",
+    "name": "WebsiteMixer CMS Core",
+    "summary": "Provide the core bare minimum for a website.",
     "version": "1.0",
-    "directory": "Base",
+    "directory": "Core",
     "website": "http://websitemixer.com",
     "email": "brad@bizzartech.com",
     "image": "http://websitemixer.com/static/upload/screenshot-blank.jpg",
@@ -16,6 +16,6 @@
     }]
   },
   "import": [
-    "Base"
+    "Core"
   ]
 }
